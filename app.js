@@ -1,6 +1,6 @@
 const name = "rodolfo";
 
-alert(name);
+console.log(name);
 
 let mensaje = `hello world`;
 
